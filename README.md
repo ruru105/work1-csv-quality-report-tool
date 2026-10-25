@@ -1,8 +1,8 @@
 # 作品1:CSVチェッカー(CSV Checker)
 
-旧称:CSV Quality Report Tool(GitHubのリポジトリ名は`csv-quality-report-tool`のままです)。
+旧称:CSV Quality Report Tool(GitHubのリポジトリ名は`work1-csv-quality-report-tool`です)。
 
-[![Python tests](https://github.com/ruru105/csv-quality-report-tool/actions/workflows/main.yml/badge.svg)](https://github.com/ruru105/csv-quality-report-tool/actions/workflows/main.yml)
+[![Python tests](https://github.com/ruru105/work1-csv-quality-report-tool/actions/workflows/main.yml/badge.svg)](https://github.com/ruru105/work1-csv-quality-report-tool/actions/workflows/main.yml)
 
 CSVファイルを自動検査し、データ品質の確認結果を見やすいExcelレポートとして出力するPythonツールです。
 
